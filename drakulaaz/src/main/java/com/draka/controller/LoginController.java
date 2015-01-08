@@ -47,5 +47,4 @@ public class LoginController {
  public String ge403denied() {  
   return "redirect:login?denied";  
  }  
-  
-}  
+  }  
